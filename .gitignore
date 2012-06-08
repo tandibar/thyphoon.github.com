@@ -8,3 +8,7 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+
+.sass-cache/
+public/
+source/stylesheets/screen.css
