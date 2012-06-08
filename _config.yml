@@ -9,14 +9,14 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Thyphoon's Blog
+tagline: Beautiful code has its source in great companies
 author :
   name : Andi Bade
   email : andi.bade@gmail.com
   github : thyphoon
   twitter : railsbros_andi
-  feedburner : feedname
+  # feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : thyphoonsblog
     livefyre :
       site_id : 123
     intensedebate :
@@ -99,7 +99,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-32501884-1'
     getclicky :
       site_id : 
     mixpanel :
