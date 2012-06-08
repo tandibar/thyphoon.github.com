@@ -25,6 +25,7 @@ I personally think that the knowledge of the world can be found in books and so 
 * [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.stephencovey.com/7habits/7habits.php)
 * [The 8th Habit®: From Effectiveness To Greatness](https://www.stephencovey.com/8thHabit/8thhabit.php)
 * [The 4-Hour Workweek](http://www.fourhourworkweek.com/)
+* [Behind Closed Doors](http://pragprog.com/book/rdbcd/behind-closed-doors)
 <!-- * [Patterns of Enterprise Application Architecture](http://martinfowler.com/books.html#eaa) -->
 <!-- * [Business Model Generation](http://www.businessmodelgeneration.com/) -->
 <!-- * [The Lean Startup](http://theleanstartup.com/) -->
